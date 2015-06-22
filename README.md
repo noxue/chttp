@@ -6,6 +6,19 @@
 
 windows下 mingw编译通过
 
+windows下 mingw编译命令为：
+mkdir build
+cd build
+cmake -G"MinGW Makefiles" ..
+make
+
+创建build目的是 让一些文件生成在build目录下，不污染项目文件。
+
+chttp/lib 目录下生成 chttp库文件
+chttp/bin 目录下生成 测试程序
+
+
+
 linux下测试通过。
 
 
