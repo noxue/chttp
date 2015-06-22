@@ -7,3 +7,6 @@
 windows下 mingw编译通过
 
 linux下测试通过。
+
+
+程序肯定存在很多问题，若发现问题，欢迎联系我。qq 30670835  网站 ：www.zixue7.com
