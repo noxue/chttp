@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe cq ..\lib\libchttp.a  CMakeFiles/chttp.dir/src/chttp.c.obj CMakeFiles/chttp.dir/src/chttp_socket.c.obj CMakeFiles/chttp.dir/src/chttp_string.c.obj CMakeFiles/chttp.dir/src/cookie.c.obj CMakeFiles/chttp.dir/src/slist.c.obj
+C:\MinGW\bin\ranlib.exe ..\lib\libchttp.a

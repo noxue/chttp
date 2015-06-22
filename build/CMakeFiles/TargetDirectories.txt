@@ -1,0 +1,5 @@
+F:/project/cpp/chttp/build/test/CMakeFiles/cookie.dir
+F:/project/cpp/chttp/build/test/CMakeFiles/string.dir
+F:/project/cpp/chttp/build/test/CMakeFiles/slist.dir
+F:/project/cpp/chttp/build/CMakeFiles/chttp.dir
+F:/project/cpp/chttp/build/test/CMakeFiles/http.dir
