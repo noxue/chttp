@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\string.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\string.dir/objects.a @CMakeFiles\string.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe     -Wl,--whole-archive CMakeFiles\string.dir/objects.a -Wl,--no-whole-archive  -o ..\..\bin\string.exe -Wl,--out-implib,..\..\bin\libstring.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\string.dir\linklibs.rsp

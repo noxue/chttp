@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cookie.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\cookie.dir/objects.a @CMakeFiles\cookie.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe     -Wl,--whole-archive CMakeFiles\cookie.dir/objects.a -Wl,--no-whole-archive  -o ..\..\bin\cookie.exe -Wl,--out-implib,..\..\bin\libcookie.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cookie.dir\linklibs.rsp

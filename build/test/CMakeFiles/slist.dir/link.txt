@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E remove -f CMakeFiles\slist.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\slist.dir/objects.a @CMakeFiles\slist.dir\objects1.rsp
-C:\MinGW\bin\gcc.exe     -Wl,--whole-archive CMakeFiles\slist.dir/objects.a -Wl,--no-whole-archive  -o ..\..\bin\slist.exe -Wl,--out-implib,..\..\bin\libslist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\slist.dir\linklibs.rsp
